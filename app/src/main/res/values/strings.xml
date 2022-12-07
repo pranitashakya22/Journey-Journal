@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ApplicationJournal</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="facebook_app_id">1234</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+    <string name="loading" />
+
+</resources>

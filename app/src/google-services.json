@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "238196444996",
+    "firebase_url": "https://journeyapp-68b54-default-rtdb.firebaseio.com",
+    "project_id": "journeyapp-68b54",
+    "storage_bucket": "journeyapp-68b54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238196444996:android:72603284d64a8378e01111",
+        "android_client_info": {
+          "package_name": "com.ismt.applicationjournal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238196444996-urssi2cn93ffk2pfbe7s9l2qqimgne2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcwc7JCKFK-8etNMkgXgMXnlH2MSx4Co0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238196444996-urssi2cn93ffk2pfbe7s9l2qqimgne2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
